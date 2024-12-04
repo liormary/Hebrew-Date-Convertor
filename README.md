@@ -57,7 +57,7 @@ The **Hebrew Date Converter** is a React-based application that converts Gregori
 
    The backend will run on http://localhost:5000.
 
-   #### Frontend Setup
+#### Frontend Setup
 1. Navigate to the frontend folder:
    ```bash
    cd ../frontend
